@@ -1,4 +1,4 @@
-# billing-data-visualization
+# Billing-Data-Visualization
 
 This repository contains an Excel file that helps in tracking and visualizing the difference between billed and unbilled services. It's designed to assist in financial analysis and reporting within organizations.
 
